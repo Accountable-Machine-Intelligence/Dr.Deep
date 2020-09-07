@@ -7,13 +7,13 @@ Thanks for your interest in our work.
 ## Visualization Tool
 Welcome to try the prototype of our visualization tool (ConCareS):
 
-http://47.93.42.104/challenge/100049 \\
-http://47.93.42.104/challenge/11498 \\
-http://47.93.42.104/challenge/107684 \\
-http://47.93.42.104/challenge/17018 \\
-http://47.93.42.104/challenge/3273 \\
-http://47.93.42.104/challenge/16921 \\
-http://47.93.42.104/challenge/108952    \\ 
+http://47.93.42.104/challenge/100049   
+http://47.93.42.104/challenge/11498   
+http://47.93.42.104/challenge/107684   
+http://47.93.42.104/challenge/17018   
+http://47.93.42.104/challenge/3273   
+http://47.93.42.104/challenge/16921   
+http://47.93.42.104/challenge/108952      
 
 
 ## Requirements
