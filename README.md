@@ -1,6 +1,6 @@
-# ConCareS: Healthcare Representation Learning with Interpretable Clinical Context Extraction
+# Dr.Deep: Health Status Evaluation via Personalized Clinical Context Extraction
 
-The source code and some demo for *ConCareS: Healthcare Representation Learning with Interpretable Clinical Context Extraction*
+The source code and some demo for *Dr.Deep: Health Status Evaluation via Personalized Clinical Context Extraction*
 
 Thanks for your interest in our work.
 
