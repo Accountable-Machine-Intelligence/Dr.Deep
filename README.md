@@ -5,7 +5,7 @@ The source code and some demo for *Dr.Deep: Health Status Evaluation via Persona
 Thanks for your interest in our work.
 
 ## Visualization Tool
-Welcome to try the prototype of our visualization tool (ConCareS):
+Welcome to try the prototype of our visualization tool (Dr.Deep):
 
 http://47.93.42.104/challenge/100049   
 http://47.93.42.104/challenge/11498   
